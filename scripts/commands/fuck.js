@@ -1,6 +1,6 @@
 module.exports.config = {
   name: "fuckv2",
-  version: "3.1.1",
+  version: "1.0.0",
   permssion: 2,
   prefix: true,
   credits: "Nayan",
